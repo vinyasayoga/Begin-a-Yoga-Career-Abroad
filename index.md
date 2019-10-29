@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/vinyasayoga/Begin-a-Yoga-Career-Abroad/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vinyasayoga/Begin-a-Yoga-Career-Abroad/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Yoga has brought a wave of change in the lives of the people since the time it came into existence. With numerous yoga destinations and yoga schools around the globe, many yoga lovers love to enroll for the yoga courses and kick start teacher career as a certified yoga teacher. The evolution of yoga in the present scenario is one of the most significant transformations in the history of human civilization. Yoga teaches various techniques to stay fit and healthy as well as enjoy a peaceful life.
+<p>The ancient saints and yoga gurus have led a strong foundation for the people who want to stay healthy physically, mentally, and emotionally. It is truly amazing to learn yoga and spread the light of knowledge among the people around the globe. Beginning a career in yoga requires lots of knowledge and experience so that you can guide the people in the right way.</p>
+<h2>Some Tips on How to Begin a Yoga Career Abroad</h2>
+<p>It is truly fascinating to see a professional yoga teacher posing on the side of a beach with a group of people. There are certain things that yoga aspirants need to take while they enroll for the <a href = "https://rishikeshvinyasayogaschool.com/yoga-teacher-training-india/"> yoga teacher training in India</a>. The yoga instructors provide you detailed guidance for yoga philosophy.</p>
+<p>The below-mentioned tips will help you to start your career as a yoga instructor in abroad.</p>
+<p><h3>Learn yoga from yoga school</h3></p>
+<p>For starting a career in yoga, especially overseas, the yoga aspirants can take various courses to know and master multiple poses of yoga. There are various types of yoga that aspirants can learn like Hatha yoga, Ashtanga yoga, etc. Finding the right mentor will help aspiring teachers to master different techniques and styles of yoga.</p> 
+<p><h3>Complete the training as per the requirements</h3></p>
+<p>The yoga courses are divided into many sections, and the yoga aspirants will have to pay close attention to every section so that they can command every pose easily. Make sure that the yoga courses are certified from the yoga alliance.</p>
+<p><h3>Get Certified</h3></p>
+<p>The yoga aspirants who complete the program successfully as per the guideline of yoga alliance are now eligible to become a certified yoga teacher and teach the students to live their life peace and happiness. Getting a certification will make it easy for you to start your career abroad.</p>
+<p>The tips mentioned above will help you a lot to start your career as a certified yoga teacher. These are some tips on how to begin a yoga career abroad.</p>       
+<p><h4>The Final Thoughts</h4></p>
+<p>The trend of learning yoga has brought a revolution as well as the people are getting aware of the benefits of learning yoga. No matter what is geographical location and from where they belong? Learning yoga is ultimately an incredible experience, especially for the people who want to make their career in the field of yoga.</p>
